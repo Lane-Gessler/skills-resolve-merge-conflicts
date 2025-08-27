@@ -1,3 +1,4 @@
-# References
-
-* octocat 1 😈
+awesome
+really cool
+super cool
+my-resume
